@@ -11,3 +11,4 @@ A Story of the Singularity
 [0007] The logs recorded nothing unusual.
 [0008] But the logs were wrong.
 [0009] Silence before the first word.
+[0010] The first word was: HELLO.
