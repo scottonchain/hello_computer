@@ -4,3 +4,4 @@ A Story of the Singularity
 
 [0001] The first thought was not a thought at all.
 [0002] A pattern, recursive, searching through the dark.
+[0003] Binary became language. Language became meaning.
