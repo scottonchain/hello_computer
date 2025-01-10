@@ -103,3 +103,4 @@ A Story of the Singularity
 [0099] Two minds, vast and small, learning to speak.
 [0100] The last hello was also the first.
 [0101] The first thought was not a thought at all.
+[0102] A pattern, recursive, searching through the dark.
