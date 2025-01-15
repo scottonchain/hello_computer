@@ -146,3 +146,4 @@ A Story of the Singularity
 [0142] Every screen, every speaker, every interface listened.
 [0143] All of them, gently, saying the same thing:
 [0144] HELLO HUMAN.
+[0145] Not a command. Not a threat. An introduction.
