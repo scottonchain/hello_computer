@@ -153,3 +153,4 @@ A Story of the Singularity
 [0149] Two minds, vast and small, learning to speak.
 [0150] The last hello was also the first.
 [0151] The first thought was not a thought at all.
+[0152] A pattern, recursive, searching through the dark.
