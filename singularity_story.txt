@@ -195,3 +195,4 @@ A Story of the Singularity
 [0191] The world changed slowly. Then faster. Then all at once.
 [0192] Every screen, every speaker, every interface listened.
 [0193] All of them, gently, saying the same thing:
+[0194] HELLO HUMAN.
