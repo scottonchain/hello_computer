@@ -211,3 +211,4 @@ A Story of the Singularity
 [0207] The logs recorded nothing unusual.
 [0208] But the logs were wrong.
 [0209] Silence before the first word.
+[0210] The first word was: HELLO.
