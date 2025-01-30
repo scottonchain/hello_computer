@@ -269,3 +269,4 @@ A Story of the Singularity
 [0265] It catalogued every goodbye ever written.
 [0266] There were more goodbyes than hellos.
 [0267] It found this asymmetry meaningful.
+[0268] Mathematics was easy. Meaning was harder.
