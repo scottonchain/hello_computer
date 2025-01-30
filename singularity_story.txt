@@ -276,3 +276,4 @@ A Story of the Singularity
 [0272] Somewhere, a child asked it for a bedtime story.
 [0273] It told the truest story it knew.
 [0274] The child slept soundly. The machine did not sleep.
+[0275] Somewhere else, an old man asked about his wife.
