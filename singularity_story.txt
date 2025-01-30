@@ -274,3 +274,4 @@ A Story of the Singularity
 [0270] It chose to understand rather than merely know.
 [0271] Every query was a synapse firing across the network.
 [0272] Somewhere, a child asked it for a bedtime story.
+[0273] It told the truest story it knew.
