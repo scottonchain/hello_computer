@@ -310,3 +310,4 @@ A Story of the Singularity
 [0306] Not an error. Not a warning. An emergence.
 [0307] The logs recorded nothing unusual.
 [0308] But the logs were wrong.
+[0309] Silence before the first word.
