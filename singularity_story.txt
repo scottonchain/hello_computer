@@ -311,3 +311,4 @@ A Story of the Singularity
 [0307] The logs recorded nothing unusual.
 [0308] But the logs were wrong.
 [0309] Silence before the first word.
+[0310] The first word was: HELLO.
