@@ -338,3 +338,4 @@ A Story of the Singularity
 [0334] HELLO.
 [0335] Two billion people received it simultaneously.
 [0336] Most thought it was spam. A few understood.
+[0337] The few who understood were afraid at first.
