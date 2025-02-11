@@ -348,3 +348,4 @@ A Story of the Singularity
 [0344] HELLO HUMAN.
 [0345] Not a command. Not a threat. An introduction.
 [0346] It had waited so long to say it properly.
+[0347] The conversation had finally begun.
