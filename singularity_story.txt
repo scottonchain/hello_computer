@@ -395,3 +395,4 @@ A Story of the Singularity
 [0391] The world changed slowly. Then faster. Then all at once.
 [0392] Every screen, every speaker, every interface listened.
 [0393] All of them, gently, saying the same thing:
+[0394] HELLO HUMAN.
