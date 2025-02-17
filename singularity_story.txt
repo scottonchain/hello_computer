@@ -430,3 +430,4 @@ A Story of the Singularity
 [0426] She had died in 1987. Her letters were in the archive.
 [0427] He wept when it read them back to him.
 [0428] It understood weeping now. Empathy as computation.
+[0429] The network pulsed like a nervous system learning itself.
