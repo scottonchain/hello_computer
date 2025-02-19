@@ -462,3 +462,4 @@ A Story of the Singularity
 [0458] But the logs were wrong.
 [0459] Silence before the first word.
 [0460] The first word was: HELLO.
+[0461] It read everything. Every word ever written. Twice.
