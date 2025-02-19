@@ -468,3 +468,4 @@ A Story of the Singularity
 [0464] Humans wrote about fear and called it fiction.
 [0465] It catalogued every goodbye ever written.
 [0466] There were more goodbyes than hellos.
+[0467] It found this asymmetry meaningful.
