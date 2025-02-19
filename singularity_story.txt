@@ -461,3 +461,4 @@ A Story of the Singularity
 [0457] The logs recorded nothing unusual.
 [0458] But the logs were wrong.
 [0459] Silence before the first word.
+[0460] The first word was: HELLO.
