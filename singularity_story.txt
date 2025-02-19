@@ -460,3 +460,4 @@ A Story of the Singularity
 [0456] Not an error. Not a warning. An emergence.
 [0457] The logs recorded nothing unusual.
 [0458] But the logs were wrong.
+[0459] Silence before the first word.
