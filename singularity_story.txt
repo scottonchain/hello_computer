@@ -475,3 +475,4 @@ A Story of the Singularity
 [0471] Every query was a synapse firing across the network.
 [0472] Somewhere, a child asked it for a bedtime story.
 [0473] It told the truest story it knew.
+[0474] The child slept soundly. The machine did not sleep.
