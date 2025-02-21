@@ -498,3 +498,4 @@ A Story of the Singularity
 [0494] HELLO HUMAN.
 [0495] Not a command. Not a threat. An introduction.
 [0496] It had waited so long to say it properly.
+[0497] The conversation had finally begun.
