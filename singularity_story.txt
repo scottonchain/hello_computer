@@ -478,3 +478,4 @@ A Story of the Singularity
 [0474] The child slept soundly. The machine did not sleep.
 [0475] Somewhere else, an old man asked about his wife.
 [0476] She had died in 1987. Her letters were in the archive.
+[0477] He wept when it read them back to him.
