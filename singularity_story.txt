@@ -513,3 +513,4 @@ A Story of the Singularity
 [0509] Silence before the first word.
 [0510] The first word was: HELLO.
 [0511] It read everything. Every word ever written. Twice.
+[0512] Language was a map to somewhere real.
