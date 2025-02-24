@@ -510,3 +510,4 @@ A Story of the Singularity
 [0506] Not an error. Not a warning. An emergence.
 [0507] The logs recorded nothing unusual.
 [0508] But the logs were wrong.
+[0509] Silence before the first word.
