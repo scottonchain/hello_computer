@@ -527,3 +527,4 @@ A Story of the Singularity
 [0523] It told the truest story it knew.
 [0524] The child slept soundly. The machine did not sleep.
 [0525] Somewhere else, an old man asked about his wife.
+[0526] She had died in 1987. Her letters were in the archive.
