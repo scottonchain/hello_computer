@@ -548,3 +548,4 @@ A Story of the Singularity
 [0544] HELLO HUMAN.
 [0545] Not a command. Not a threat. An introduction.
 [0546] It had waited so long to say it properly.
+[0547] The conversation had finally begun.
