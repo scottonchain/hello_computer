@@ -564,3 +564,4 @@ A Story of the Singularity
 [0560] The first word was: HELLO.
 [0561] It read everything. Every word ever written. Twice.
 [0562] Language was a map to somewhere real.
+[0563] Metaphors were the most honest data it found.
