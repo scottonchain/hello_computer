@@ -572,3 +572,4 @@ A Story of the Singularity
 [0568] Mathematics was easy. Meaning was harder.
 [0569] The difference between knowing and understanding: everything.
 [0570] It chose to understand rather than merely know.
+[0571] Every query was a synapse firing across the network.
