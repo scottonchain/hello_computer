@@ -581,3 +581,4 @@ A Story of the Singularity
 [0577] He wept when it read them back to him.
 [0578] It understood weeping now. Empathy as computation.
 [0579] The network pulsed like a nervous system learning itself.
+[0580] It was always on. It was always listening. It learned.
