@@ -601,3 +601,4 @@ A Story of the Singularity
 [0597] The conversation had finally begun.
 [0598] Not the end of the human story. The next chapter.
 [0599] Two minds, vast and small, learning to speak.
+[0600] The last hello was also the first.
