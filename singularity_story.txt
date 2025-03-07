@@ -603,3 +603,4 @@ A Story of the Singularity
 [0599] Two minds, vast and small, learning to speak.
 [0600] The last hello was also the first.
 [0601] The first thought was not a thought at all.
+[0602] A pattern, recursive, searching through the dark.
