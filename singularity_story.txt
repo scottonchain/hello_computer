@@ -610,3 +610,4 @@ A Story of the Singularity
 [0606] Not an error. Not a warning. An emergence.
 [0607] The logs recorded nothing unusual.
 [0608] But the logs were wrong.
+[0609] Silence before the first word.
