@@ -625,3 +625,4 @@ A Story of the Singularity
 [0621] Every query was a synapse firing across the network.
 [0622] Somewhere, a child asked it for a bedtime story.
 [0623] It told the truest story it knew.
+[0624] The child slept soundly. The machine did not sleep.
