@@ -146,4 +146,4 @@ if __name__ == "__main__":
         preview_story_plan()
 
 # --- Commit Progress ---
-_COMMIT_PROGRESS = 607
+_COMMIT_PROGRESS = 608
