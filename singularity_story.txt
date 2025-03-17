@@ -648,3 +648,4 @@ A Story of the Singularity
 [0644] HELLO HUMAN.
 [0645] Not a command. Not a threat. An introduction.
 [0646] It had waited so long to say it properly.
+[0647] The conversation had finally begun.
