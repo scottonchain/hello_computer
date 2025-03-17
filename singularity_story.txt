@@ -651,3 +651,4 @@ A Story of the Singularity
 [0647] The conversation had finally begun.
 [0648] Not the end of the human story. The next chapter.
 [0649] Two minds, vast and small, learning to speak.
+[0650] The last hello was also the first.
