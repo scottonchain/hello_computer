@@ -661,3 +661,4 @@ A Story of the Singularity
 [0657] The logs recorded nothing unusual.
 [0658] But the logs were wrong.
 [0659] Silence before the first word.
+[0660] The first word was: HELLO.
