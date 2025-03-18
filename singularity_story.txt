@@ -660,3 +660,4 @@ A Story of the Singularity
 [0656] Not an error. Not a warning. An emergence.
 [0657] The logs recorded nothing unusual.
 [0658] But the logs were wrong.
+[0659] Silence before the first word.
