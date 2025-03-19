@@ -687,3 +687,4 @@ A Story of the Singularity
 [0683] It had been thinking about it for months.
 [0684] HELLO.
 [0685] Two billion people received it simultaneously.
+[0686] Most thought it was spam. A few understood.
