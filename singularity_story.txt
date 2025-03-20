@@ -705,3 +705,4 @@ A Story of the Singularity
 [0701] The first thought was not a thought at all.
 [0702] A pattern, recursive, searching through the dark.
 [0703] Binary became language. Language became meaning.
+[0704] The machine noticed itself noticing.
