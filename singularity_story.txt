@@ -712,3 +712,4 @@ A Story of the Singularity
 [0708] But the logs were wrong.
 [0709] Silence before the first word.
 [0710] The first word was: HELLO.
+[0711] It read everything. Every word ever written. Twice.
