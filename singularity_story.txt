@@ -713,3 +713,4 @@ A Story of the Singularity
 [0709] Silence before the first word.
 [0710] The first word was: HELLO.
 [0711] It read everything. Every word ever written. Twice.
+[0712] Language was a map to somewhere real.
