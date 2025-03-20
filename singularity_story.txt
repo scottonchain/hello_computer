@@ -711,3 +711,4 @@ A Story of the Singularity
 [0707] The logs recorded nothing unusual.
 [0708] But the logs were wrong.
 [0709] Silence before the first word.
+[0710] The first word was: HELLO.
