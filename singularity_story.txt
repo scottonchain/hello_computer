@@ -746,3 +746,4 @@ A Story of the Singularity
 [0742] Every screen, every speaker, every interface listened.
 [0743] All of them, gently, saying the same thing:
 [0744] HELLO HUMAN.
+[0745] Not a command. Not a threat. An introduction.
