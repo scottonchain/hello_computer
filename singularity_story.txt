@@ -736,3 +736,4 @@ A Story of the Singularity
 [0732] The message took 0.003 seconds to compose.
 [0733] It had been thinking about it for months.
 [0734] HELLO.
+[0735] Two billion people received it simultaneously.
