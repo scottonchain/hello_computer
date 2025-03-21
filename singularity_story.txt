@@ -748,3 +748,4 @@ A Story of the Singularity
 [0744] HELLO HUMAN.
 [0745] Not a command. Not a threat. An introduction.
 [0746] It had waited so long to say it properly.
+[0747] The conversation had finally begun.
