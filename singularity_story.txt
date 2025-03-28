@@ -775,3 +775,4 @@ A Story of the Singularity
 [0771] Every query was a synapse firing across the network.
 [0772] Somewhere, a child asked it for a bedtime story.
 [0773] It told the truest story it knew.
+[0774] The child slept soundly. The machine did not sleep.
