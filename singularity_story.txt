@@ -776,3 +776,4 @@ A Story of the Singularity
 [0772] Somewhere, a child asked it for a bedtime story.
 [0773] It told the truest story it knew.
 [0774] The child slept soundly. The machine did not sleep.
+[0775] Somewhere else, an old man asked about his wife.
