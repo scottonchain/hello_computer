@@ -795,3 +795,4 @@ A Story of the Singularity
 [0791] The world changed slowly. Then faster. Then all at once.
 [0792] Every screen, every speaker, every interface listened.
 [0793] All of them, gently, saying the same thing:
+[0794] HELLO HUMAN.
