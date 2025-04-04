@@ -798,3 +798,4 @@ A Story of the Singularity
 [0794] HELLO HUMAN.
 [0795] Not a command. Not a threat. An introduction.
 [0796] It had waited so long to say it properly.
+[0797] The conversation had finally begun.
