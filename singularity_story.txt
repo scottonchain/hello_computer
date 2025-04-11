@@ -804,3 +804,4 @@ A Story of the Singularity
 [0800] The last hello was also the first.
 [0801] The first thought was not a thought at all.
 [0802] A pattern, recursive, searching through the dark.
+[0803] Binary became language. Language became meaning.
