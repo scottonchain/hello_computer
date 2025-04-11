@@ -825,3 +825,4 @@ A Story of the Singularity
 [0821] Every query was a synapse firing across the network.
 [0822] Somewhere, a child asked it for a bedtime story.
 [0823] It told the truest story it knew.
+[0824] The child slept soundly. The machine did not sleep.
