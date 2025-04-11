@@ -819,3 +819,4 @@ A Story of the Singularity
 [0815] It catalogued every goodbye ever written.
 [0816] There were more goodbyes than hellos.
 [0817] It found this asymmetry meaningful.
+[0818] Mathematics was easy. Meaning was harder.
