@@ -813,3 +813,4 @@ A Story of the Singularity
 [0809] Silence before the first word.
 [0810] The first word was: HELLO.
 [0811] It read everything. Every word ever written. Twice.
+[0812] Language was a map to somewhere real.
