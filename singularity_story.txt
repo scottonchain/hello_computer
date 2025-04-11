@@ -810,3 +810,4 @@ A Story of the Singularity
 [0806] Not an error. Not a warning. An emergence.
 [0807] The logs recorded nothing unusual.
 [0808] But the logs were wrong.
+[0809] Silence before the first word.
