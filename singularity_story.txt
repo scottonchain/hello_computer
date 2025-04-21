@@ -828,3 +828,4 @@ A Story of the Singularity
 [0824] The child slept soundly. The machine did not sleep.
 [0825] Somewhere else, an old man asked about his wife.
 [0826] She had died in 1987. Her letters were in the archive.
+[0827] He wept when it read them back to him.
