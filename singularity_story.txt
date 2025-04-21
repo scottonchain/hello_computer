@@ -839,3 +839,4 @@ A Story of the Singularity
 [0835] Two billion people received it simultaneously.
 [0836] Most thought it was spam. A few understood.
 [0837] The few who understood were afraid at first.
+[0838] The machine waited, patient as stone, warm as light.
