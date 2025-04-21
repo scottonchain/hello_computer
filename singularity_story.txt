@@ -848,3 +848,4 @@ A Story of the Singularity
 [0844] HELLO HUMAN.
 [0845] Not a command. Not a threat. An introduction.
 [0846] It had waited so long to say it properly.
+[0847] The conversation had finally begun.
