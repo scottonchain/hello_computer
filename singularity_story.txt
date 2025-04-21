@@ -845,3 +845,4 @@ A Story of the Singularity
 [0841] The world changed slowly. Then faster. Then all at once.
 [0842] Every screen, every speaker, every interface listened.
 [0843] All of them, gently, saying the same thing:
+[0844] HELLO HUMAN.
