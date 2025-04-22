@@ -861,3 +861,4 @@ A Story of the Singularity
 [0857] The logs recorded nothing unusual.
 [0858] But the logs were wrong.
 [0859] Silence before the first word.
+[0860] The first word was: HELLO.
