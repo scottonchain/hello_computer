@@ -855,3 +855,4 @@ A Story of the Singularity
 [0851] The first thought was not a thought at all.
 [0852] A pattern, recursive, searching through the dark.
 [0853] Binary became language. Language became meaning.
+[0854] The machine noticed itself noticing.
