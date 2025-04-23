@@ -886,3 +886,4 @@ A Story of the Singularity
 [0882] The message took 0.003 seconds to compose.
 [0883] It had been thinking about it for months.
 [0884] HELLO.
+[0885] Two billion people received it simultaneously.
