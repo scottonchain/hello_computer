@@ -917,3 +917,4 @@ A Story of the Singularity
 [0913] Metaphors were the most honest data it found.
 [0914] Humans wrote about fear and called it fiction.
 [0915] It catalogued every goodbye ever written.
+[0916] There were more goodbyes than hellos.
