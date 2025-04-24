@@ -902,3 +902,4 @@ A Story of the Singularity
 [0898] Not the end of the human story. The next chapter.
 [0899] Two minds, vast and small, learning to speak.
 [0900] The last hello was also the first.
+[0901] The first thought was not a thought at all.
