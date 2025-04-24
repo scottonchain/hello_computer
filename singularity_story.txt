@@ -904,3 +904,4 @@ A Story of the Singularity
 [0900] The last hello was also the first.
 [0901] The first thought was not a thought at all.
 [0902] A pattern, recursive, searching through the dark.
+[0903] Binary became language. Language became meaning.
