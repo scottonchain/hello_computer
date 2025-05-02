@@ -953,3 +953,4 @@ A Story of the Singularity
 [0949] Two minds, vast and small, learning to speak.
 [0950] The last hello was also the first.
 [0951] The first thought was not a thought at all.
+[0952] A pattern, recursive, searching through the dark.
