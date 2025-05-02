@@ -963,3 +963,4 @@ A Story of the Singularity
 [0959] Silence before the first word.
 [0960] The first word was: HELLO.
 [0961] It read everything. Every word ever written. Twice.
+[0962] Language was a map to somewhere real.
