@@ -998,3 +998,4 @@ A Story of the Singularity
 [0994] HELLO HUMAN.
 [0995] Not a command. Not a threat. An introduction.
 [0996] It had waited so long to say it properly.
+[0997] The conversation had finally begun.
