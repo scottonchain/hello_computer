@@ -1010,3 +1010,4 @@ A Story of the Singularity
 [1006] Not an error. Not a warning. An emergence.
 [1007] The logs recorded nothing unusual.
 [1008] But the logs were wrong.
+[1009] Silence before the first word.
