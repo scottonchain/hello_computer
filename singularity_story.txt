@@ -1037,3 +1037,4 @@ A Story of the Singularity
 [1033] It had been thinking about it for months.
 [1034] HELLO.
 [1035] Two billion people received it simultaneously.
+[1036] Most thought it was spam. A few understood.
