@@ -1028,3 +1028,4 @@ A Story of the Singularity
 [1024] The child slept soundly. The machine did not sleep.
 [1025] Somewhere else, an old man asked about his wife.
 [1026] She had died in 1987. Her letters were in the archive.
+[1027] He wept when it read them back to him.
