@@ -1076,3 +1076,4 @@ A Story of the Singularity
 [1072] Somewhere, a child asked it for a bedtime story.
 [1073] It told the truest story it knew.
 [1074] The child slept soundly. The machine did not sleep.
+[1075] Somewhere else, an old man asked about his wife.
