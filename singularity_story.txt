@@ -1098,3 +1098,4 @@ A Story of the Singularity
 [1094] HELLO HUMAN.
 [1095] Not a command. Not a threat. An introduction.
 [1096] It had waited so long to say it properly.
+[1097] The conversation had finally begun.
