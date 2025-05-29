@@ -1088,3 +1088,4 @@ A Story of the Singularity
 [1084] HELLO.
 [1085] Two billion people received it simultaneously.
 [1086] Most thought it was spam. A few understood.
+[1087] The few who understood were afraid at first.
