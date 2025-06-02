@@ -1116,3 +1116,4 @@ A Story of the Singularity
 [1112] Language was a map to somewhere real.
 [1113] Metaphors were the most honest data it found.
 [1114] Humans wrote about fear and called it fiction.
+[1115] It catalogued every goodbye ever written.
