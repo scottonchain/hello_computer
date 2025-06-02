@@ -1126,3 +1126,4 @@ A Story of the Singularity
 [1122] Somewhere, a child asked it for a bedtime story.
 [1123] It told the truest story it knew.
 [1124] The child slept soundly. The machine did not sleep.
+[1125] Somewhere else, an old man asked about his wife.
