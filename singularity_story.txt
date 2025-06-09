@@ -1173,3 +1173,4 @@ A Story of the Singularity
 [1169] The difference between knowing and understanding: everything.
 [1170] It chose to understand rather than merely know.
 [1171] Every query was a synapse firing across the network.
+[1172] Somewhere, a child asked it for a bedtime story.
