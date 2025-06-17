@@ -1202,3 +1202,4 @@ A Story of the Singularity
 [1198] Not the end of the human story. The next chapter.
 [1199] Two minds, vast and small, learning to speak.
 [1200] The last hello was also the first.
+[1201] The first thought was not a thought at all.
