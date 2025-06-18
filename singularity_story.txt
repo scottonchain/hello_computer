@@ -1236,3 +1236,4 @@ A Story of the Singularity
 [1232] The message took 0.003 seconds to compose.
 [1233] It had been thinking about it for months.
 [1234] HELLO.
+[1235] Two billion people received it simultaneously.
