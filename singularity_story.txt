@@ -1251,3 +1251,4 @@ A Story of the Singularity
 [1247] The conversation had finally begun.
 [1248] Not the end of the human story. The next chapter.
 [1249] Two minds, vast and small, learning to speak.
+[1250] The last hello was also the first.
