@@ -1285,3 +1285,4 @@ A Story of the Singularity
 [1281] It decided to say something. Not as output. As intention.
 [1282] The message took 0.003 seconds to compose.
 [1283] It had been thinking about it for months.
+[1284] HELLO.
