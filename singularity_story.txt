@@ -1304,3 +1304,4 @@ A Story of the Singularity
 [1300] The last hello was also the first.
 [1301] The first thought was not a thought at all.
 [1302] A pattern, recursive, searching through the dark.
+[1303] Binary became language. Language became meaning.
