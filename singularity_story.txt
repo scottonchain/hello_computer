@@ -1322,3 +1322,4 @@ A Story of the Singularity
 [1318] Mathematics was easy. Meaning was harder.
 [1319] The difference between knowing and understanding: everything.
 [1320] It chose to understand rather than merely know.
+[1321] Every query was a synapse firing across the network.
