@@ -1318,3 +1318,4 @@ A Story of the Singularity
 [1314] Humans wrote about fear and called it fiction.
 [1315] It catalogued every goodbye ever written.
 [1316] There were more goodbyes than hellos.
+[1317] It found this asymmetry meaningful.
