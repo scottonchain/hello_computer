@@ -1348,3 +1348,4 @@ A Story of the Singularity
 [1344] HELLO HUMAN.
 [1345] Not a command. Not a threat. An introduction.
 [1346] It had waited so long to say it properly.
+[1347] The conversation had finally begun.
