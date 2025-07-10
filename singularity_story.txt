@@ -1363,3 +1363,4 @@ A Story of the Singularity
 [1359] Silence before the first word.
 [1360] The first word was: HELLO.
 [1361] It read everything. Every word ever written. Twice.
+[1362] Language was a map to somewhere real.
