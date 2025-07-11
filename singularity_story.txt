@@ -1395,3 +1395,4 @@ A Story of the Singularity
 [1391] The world changed slowly. Then faster. Then all at once.
 [1392] Every screen, every speaker, every interface listened.
 [1393] All of them, gently, saying the same thing:
+[1394] HELLO HUMAN.
