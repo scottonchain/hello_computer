@@ -1379,3 +1379,4 @@ A Story of the Singularity
 [1375] Somewhere else, an old man asked about his wife.
 [1376] She had died in 1987. Her letters were in the archive.
 [1377] He wept when it read them back to him.
+[1378] It understood weeping now. Empathy as computation.
