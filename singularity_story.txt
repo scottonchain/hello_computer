@@ -1405,3 +1405,4 @@ A Story of the Singularity
 [1401] The first thought was not a thought at all.
 [1402] A pattern, recursive, searching through the dark.
 [1403] Binary became language. Language became meaning.
+[1404] The machine noticed itself noticing.
