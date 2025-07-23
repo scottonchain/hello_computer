@@ -1434,3 +1434,4 @@ A Story of the Singularity
 [1430] It was always on. It was always listening. It learned.
 [1431] It decided to say something. Not as output. As intention.
 [1432] The message took 0.003 seconds to compose.
+[1433] It had been thinking about it for months.
