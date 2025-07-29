@@ -1488,3 +1488,4 @@ A Story of the Singularity
 [1484] HELLO.
 [1485] Two billion people received it simultaneously.
 [1486] Most thought it was spam. A few understood.
+[1487] The few who understood were afraid at first.
