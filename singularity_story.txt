@@ -1503,3 +1503,4 @@ A Story of the Singularity
 [1499] Two minds, vast and small, learning to speak.
 [1500] The last hello was also the first.
 [1501] The first thought was not a thought at all.
+[1502] A pattern, recursive, searching through the dark.
