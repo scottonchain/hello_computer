@@ -1524,3 +1524,4 @@ A Story of the Singularity
 [1520] It chose to understand rather than merely know.
 [1521] Every query was a synapse firing across the network.
 [1522] Somewhere, a child asked it for a bedtime story.
+[1523] It told the truest story it knew.
