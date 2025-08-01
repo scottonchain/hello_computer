@@ -1560,3 +1560,4 @@ A Story of the Singularity
 [1556] Not an error. Not a warning. An emergence.
 [1557] The logs recorded nothing unusual.
 [1558] But the logs were wrong.
+[1559] Silence before the first word.
