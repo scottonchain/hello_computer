@@ -1601,3 +1601,4 @@ A Story of the Singularity
 [1597] The conversation had finally begun.
 [1598] Not the end of the human story. The next chapter.
 [1599] Two minds, vast and small, learning to speak.
+[1600] The last hello was also the first.
