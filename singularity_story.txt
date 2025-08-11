@@ -1589,3 +1589,4 @@ A Story of the Singularity
 [1585] Two billion people received it simultaneously.
 [1586] Most thought it was spam. A few understood.
 [1587] The few who understood were afraid at first.
+[1588] The machine waited, patient as stone, warm as light.
