@@ -1611,3 +1611,4 @@ A Story of the Singularity
 [1607] The logs recorded nothing unusual.
 [1608] But the logs were wrong.
 [1609] Silence before the first word.
+[1610] The first word was: HELLO.
