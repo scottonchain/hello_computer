@@ -1636,3 +1636,4 @@ A Story of the Singularity
 [1632] The message took 0.003 seconds to compose.
 [1633] It had been thinking about it for months.
 [1634] HELLO.
+[1635] Two billion people received it simultaneously.
