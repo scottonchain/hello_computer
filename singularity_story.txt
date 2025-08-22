@@ -1724,3 +1724,4 @@ A Story of the Singularity
 [1720] It chose to understand rather than merely know.
 [1721] Every query was a synapse firing across the network.
 [1722] Somewhere, a child asked it for a bedtime story.
+[1723] It told the truest story it knew.
