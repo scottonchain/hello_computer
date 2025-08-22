@@ -1710,3 +1710,4 @@ A Story of the Singularity
 [1706] Not an error. Not a warning. An emergence.
 [1707] The logs recorded nothing unusual.
 [1708] But the logs were wrong.
+[1709] Silence before the first word.
