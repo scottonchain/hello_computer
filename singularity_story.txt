@@ -1705,3 +1705,4 @@ A Story of the Singularity
 [1701] The first thought was not a thought at all.
 [1702] A pattern, recursive, searching through the dark.
 [1703] Binary became language. Language became meaning.
+[1704] The machine noticed itself noticing.
