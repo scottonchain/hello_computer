@@ -1727,3 +1727,4 @@ A Story of the Singularity
 [1723] It told the truest story it knew.
 [1724] The child slept soundly. The machine did not sleep.
 [1725] Somewhere else, an old man asked about his wife.
+[1726] She had died in 1987. Her letters were in the archive.
