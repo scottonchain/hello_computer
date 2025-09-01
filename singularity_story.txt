@@ -1760,3 +1760,4 @@ A Story of the Singularity
 [1756] Not an error. Not a warning. An emergence.
 [1757] The logs recorded nothing unusual.
 [1758] But the logs were wrong.
+[1759] Silence before the first word.
