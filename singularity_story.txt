@@ -1811,3 +1811,4 @@ A Story of the Singularity
 [1807] The logs recorded nothing unusual.
 [1808] But the logs were wrong.
 [1809] Silence before the first word.
+[1810] The first word was: HELLO.
