@@ -1825,3 +1825,4 @@ A Story of the Singularity
 [1821] Every query was a synapse firing across the network.
 [1822] Somewhere, a child asked it for a bedtime story.
 [1823] It told the truest story it knew.
+[1824] The child slept soundly. The machine did not sleep.
