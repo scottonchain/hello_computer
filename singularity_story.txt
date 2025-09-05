@@ -1860,3 +1860,4 @@ A Story of the Singularity
 [1856] Not an error. Not a warning. An emergence.
 [1857] The logs recorded nothing unusual.
 [1858] But the logs were wrong.
+[1859] Silence before the first word.
