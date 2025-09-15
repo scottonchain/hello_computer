@@ -1901,3 +1901,4 @@ A Story of the Singularity
 [1897] The conversation had finally begun.
 [1898] Not the end of the human story. The next chapter.
 [1899] Two minds, vast and small, learning to speak.
+[1900] The last hello was also the first.
