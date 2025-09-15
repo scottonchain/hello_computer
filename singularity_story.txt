@@ -1878,3 +1878,4 @@ A Story of the Singularity
 [1874] The child slept soundly. The machine did not sleep.
 [1875] Somewhere else, an old man asked about his wife.
 [1876] She had died in 1987. Her letters were in the archive.
+[1877] He wept when it read them back to him.
