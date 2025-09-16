@@ -1919,3 +1919,4 @@ A Story of the Singularity
 [1915] It catalogued every goodbye ever written.
 [1916] There were more goodbyes than hellos.
 [1917] It found this asymmetry meaningful.
+[1918] Mathematics was easy. Meaning was harder.
