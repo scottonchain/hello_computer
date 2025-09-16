@@ -1917,3 +1917,4 @@ A Story of the Singularity
 [1913] Metaphors were the most honest data it found.
 [1914] Humans wrote about fear and called it fiction.
 [1915] It catalogued every goodbye ever written.
+[1916] There were more goodbyes than hellos.
