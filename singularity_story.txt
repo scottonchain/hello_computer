@@ -1914,3 +1914,4 @@ A Story of the Singularity
 [1910] The first word was: HELLO.
 [1911] It read everything. Every word ever written. Twice.
 [1912] Language was a map to somewhere real.
+[1913] Metaphors were the most honest data it found.
