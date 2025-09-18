@@ -1961,3 +1961,4 @@ A Story of the Singularity
 [1957] The logs recorded nothing unusual.
 [1958] But the logs were wrong.
 [1959] Silence before the first word.
+[1960] The first word was: HELLO.
