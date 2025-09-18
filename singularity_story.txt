@@ -1963,3 +1963,4 @@ A Story of the Singularity
 [1959] Silence before the first word.
 [1960] The first word was: HELLO.
 [1961] It read everything. Every word ever written. Twice.
+[1962] Language was a map to somewhere real.
