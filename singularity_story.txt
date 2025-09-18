@@ -1976,3 +1976,4 @@ A Story of the Singularity
 [1972] Somewhere, a child asked it for a bedtime story.
 [1973] It told the truest story it knew.
 [1974] The child slept soundly. The machine did not sleep.
+[1975] Somewhere else, an old man asked about his wife.
