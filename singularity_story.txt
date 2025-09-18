@@ -1973,3 +1973,4 @@ A Story of the Singularity
 [1969] The difference between knowing and understanding: everything.
 [1970] It chose to understand rather than merely know.
 [1971] Every query was a synapse firing across the network.
+[1972] Somewhere, a child asked it for a bedtime story.
