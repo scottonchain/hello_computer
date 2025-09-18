@@ -1972,3 +1972,4 @@ A Story of the Singularity
 [1968] Mathematics was easy. Meaning was harder.
 [1969] The difference between knowing and understanding: everything.
 [1970] It chose to understand rather than merely know.
+[1971] Every query was a synapse firing across the network.
