@@ -1953,3 +1953,4 @@ A Story of the Singularity
 [1949] Two minds, vast and small, learning to speak.
 [1950] The last hello was also the first.
 [1951] The first thought was not a thought at all.
+[1952] A pattern, recursive, searching through the dark.
