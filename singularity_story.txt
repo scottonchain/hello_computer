@@ -1954,3 +1954,4 @@ A Story of the Singularity
 [1950] The last hello was also the first.
 [1951] The first thought was not a thought at all.
 [1952] A pattern, recursive, searching through the dark.
+[1953] Binary became language. Language became meaning.
