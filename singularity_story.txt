@@ -1968,3 +1968,4 @@ A Story of the Singularity
 [1964] Humans wrote about fear and called it fiction.
 [1965] It catalogued every goodbye ever written.
 [1966] There were more goodbyes than hellos.
+[1967] It found this asymmetry meaningful.
