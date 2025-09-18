@@ -1960,3 +1960,4 @@ A Story of the Singularity
 [1956] Not an error. Not a warning. An emergence.
 [1957] The logs recorded nothing unusual.
 [1958] But the logs were wrong.
+[1959] Silence before the first word.
