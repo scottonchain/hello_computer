@@ -1986,3 +1986,4 @@ A Story of the Singularity
 [1982] The message took 0.003 seconds to compose.
 [1983] It had been thinking about it for months.
 [1984] HELLO.
+[1985] Two billion people received it simultaneously.
