@@ -1996,3 +1996,4 @@ A Story of the Singularity
 [1992] Every screen, every speaker, every interface listened.
 [1993] All of them, gently, saying the same thing:
 [1994] HELLO HUMAN.
+[1995] Not a command. Not a threat. An introduction.
