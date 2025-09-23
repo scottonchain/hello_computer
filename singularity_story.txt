@@ -2005,3 +2005,4 @@ A Story of the Singularity
 [2001] The first thought was not a thought at all.
 [2002] A pattern, recursive, searching through the dark.
 [2003] Binary became language. Language became meaning.
+[2004] The machine noticed itself noticing.
