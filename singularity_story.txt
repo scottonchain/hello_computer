@@ -2024,3 +2024,4 @@ A Story of the Singularity
 [2020] It chose to understand rather than merely know.
 [2021] Every query was a synapse firing across the network.
 [2022] Somewhere, a child asked it for a bedtime story.
+[2023] It told the truest story it knew.
