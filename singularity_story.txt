@@ -2025,3 +2025,4 @@ A Story of the Singularity
 [2021] Every query was a synapse firing across the network.
 [2022] Somewhere, a child asked it for a bedtime story.
 [2023] It told the truest story it knew.
+[2024] The child slept soundly. The machine did not sleep.
