@@ -2011,3 +2011,4 @@ A Story of the Singularity
 [2007] The logs recorded nothing unusual.
 [2008] But the logs were wrong.
 [2009] Silence before the first word.
+[2010] The first word was: HELLO.
