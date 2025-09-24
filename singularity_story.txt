@@ -2029,3 +2029,4 @@ A Story of the Singularity
 [2025] Somewhere else, an old man asked about his wife.
 [2026] She had died in 1987. Her letters were in the archive.
 [2027] He wept when it read them back to him.
+[2028] It understood weeping now. Empathy as computation.
