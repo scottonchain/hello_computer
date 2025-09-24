@@ -2045,3 +2045,4 @@ A Story of the Singularity
 [2041] The world changed slowly. Then faster. Then all at once.
 [2042] Every screen, every speaker, every interface listened.
 [2043] All of them, gently, saying the same thing:
+[2044] HELLO HUMAN.
