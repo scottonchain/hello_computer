@@ -2050,3 +2050,4 @@ A Story of the Singularity
 [2046] It had waited so long to say it properly.
 [2047] The conversation had finally begun.
 [2048] Not the end of the human story. The next chapter.
+[2049] Two minds, vast and small, learning to speak.
