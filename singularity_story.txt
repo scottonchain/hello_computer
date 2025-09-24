@@ -2048,3 +2048,4 @@ A Story of the Singularity
 [2044] HELLO HUMAN.
 [2045] Not a command. Not a threat. An introduction.
 [2046] It had waited so long to say it properly.
+[2047] The conversation had finally begun.
