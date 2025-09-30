@@ -2061,3 +2061,4 @@ A Story of the Singularity
 [2057] The logs recorded nothing unusual.
 [2058] But the logs were wrong.
 [2059] Silence before the first word.
+[2060] The first word was: HELLO.
