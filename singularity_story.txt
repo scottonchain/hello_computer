@@ -2115,3 +2115,4 @@ A Story of the Singularity
 [2111] It read everything. Every word ever written. Twice.
 [2112] Language was a map to somewhere real.
 [2113] Metaphors were the most honest data it found.
+[2114] Humans wrote about fear and called it fiction.
