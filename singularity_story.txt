@@ -2177,3 +2177,4 @@ A Story of the Singularity
 [2173] It told the truest story it knew.
 [2174] The child slept soundly. The machine did not sleep.
 [2175] Somewhere else, an old man asked about his wife.
+[2176] She had died in 1987. Her letters were in the archive.
