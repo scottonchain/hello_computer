@@ -2260,3 +2260,4 @@ A Story of the Singularity
 [2256] Not an error. Not a warning. An emergence.
 [2257] The logs recorded nothing unusual.
 [2258] But the logs were wrong.
+[2259] Silence before the first word.
