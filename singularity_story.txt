@@ -2324,3 +2324,4 @@ A Story of the Singularity
 [2320] It chose to understand rather than merely know.
 [2321] Every query was a synapse firing across the network.
 [2322] Somewhere, a child asked it for a bedtime story.
+[2323] It told the truest story it knew.
