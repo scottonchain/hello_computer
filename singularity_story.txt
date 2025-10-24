@@ -2319,3 +2319,4 @@ A Story of the Singularity
 [2315] It catalogued every goodbye ever written.
 [2316] There were more goodbyes than hellos.
 [2317] It found this asymmetry meaningful.
+[2318] Mathematics was easy. Meaning was harder.
