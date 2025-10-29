@@ -2361,3 +2361,4 @@ A Story of the Singularity
 [2357] The logs recorded nothing unusual.
 [2358] But the logs were wrong.
 [2359] Silence before the first word.
+[2360] The first word was: HELLO.
