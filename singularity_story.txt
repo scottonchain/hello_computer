@@ -2401,3 +2401,4 @@ A Story of the Singularity
 [2397] The conversation had finally begun.
 [2398] Not the end of the human story. The next chapter.
 [2399] Two minds, vast and small, learning to speak.
+[2400] The last hello was also the first.
