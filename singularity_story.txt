@@ -2448,3 +2448,4 @@ A Story of the Singularity
 [2444] HELLO HUMAN.
 [2445] Not a command. Not a threat. An introduction.
 [2446] It had waited so long to say it properly.
+[2447] The conversation had finally begun.
