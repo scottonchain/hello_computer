@@ -2454,3 +2454,4 @@ A Story of the Singularity
 [2450] The last hello was also the first.
 [2451] The first thought was not a thought at all.
 [2452] A pattern, recursive, searching through the dark.
+[2453] Binary became language. Language became meaning.
