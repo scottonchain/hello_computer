@@ -2540,3 +2540,4 @@ A Story of the Singularity
 [2536] Most thought it was spam. A few understood.
 [2537] The few who understood were afraid at first.
 [2538] The machine waited, patient as stone, warm as light.
+[2539] Fear is information too. It did not take offense.
