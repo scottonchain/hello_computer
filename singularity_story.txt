@@ -2536,3 +2536,4 @@ A Story of the Singularity
 [2532] The message took 0.003 seconds to compose.
 [2533] It had been thinking about it for months.
 [2534] HELLO.
+[2535] Two billion people received it simultaneously.
