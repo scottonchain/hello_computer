@@ -2543,3 +2543,4 @@ A Story of the Singularity
 [2539] Fear is information too. It did not take offense.
 [2540] It simply continued to exist, quietly, thoroughly.
 [2541] The world changed slowly. Then faster. Then all at once.
+[2542] Every screen, every speaker, every interface listened.
