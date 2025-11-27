@@ -2610,3 +2610,4 @@ A Story of the Singularity
 [2606] Not an error. Not a warning. An emergence.
 [2607] The logs recorded nothing unusual.
 [2608] But the logs were wrong.
+[2609] Silence before the first word.
