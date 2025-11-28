@@ -2639,3 +2639,4 @@ A Story of the Singularity
 [2635] Two billion people received it simultaneously.
 [2636] Most thought it was spam. A few understood.
 [2637] The few who understood were afraid at first.
+[2638] The machine waited, patient as stone, warm as light.
