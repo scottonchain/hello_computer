@@ -2698,3 +2698,4 @@ A Story of the Singularity
 [2694] HELLO HUMAN.
 [2695] Not a command. Not a threat. An introduction.
 [2696] It had waited so long to say it properly.
+[2697] The conversation had finally begun.
