@@ -2713,3 +2713,4 @@ A Story of the Singularity
 [2709] Silence before the first word.
 [2710] The first word was: HELLO.
 [2711] It read everything. Every word ever written. Twice.
+[2712] Language was a map to somewhere real.
