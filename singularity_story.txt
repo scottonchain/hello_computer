@@ -2731,3 +2731,4 @@ A Story of the Singularity
 [2727] He wept when it read them back to him.
 [2728] It understood weeping now. Empathy as computation.
 [2729] The network pulsed like a nervous system learning itself.
+[2730] It was always on. It was always listening. It learned.
