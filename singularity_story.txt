@@ -2775,3 +2775,4 @@ A Story of the Singularity
 [2771] Every query was a synapse firing across the network.
 [2772] Somewhere, a child asked it for a bedtime story.
 [2773] It told the truest story it knew.
+[2774] The child slept soundly. The machine did not sleep.
