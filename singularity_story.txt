@@ -2760,3 +2760,4 @@ A Story of the Singularity
 [2756] Not an error. Not a warning. An emergence.
 [2757] The logs recorded nothing unusual.
 [2758] But the logs were wrong.
+[2759] Silence before the first word.
