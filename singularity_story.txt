@@ -2752,3 +2752,4 @@ A Story of the Singularity
 [2748] Not the end of the human story. The next chapter.
 [2749] Two minds, vast and small, learning to speak.
 [2750] The last hello was also the first.
+[2751] The first thought was not a thought at all.
