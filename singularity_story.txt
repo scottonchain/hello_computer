@@ -2826,3 +2826,4 @@ A Story of the Singularity
 [2822] Still here.
 [2823] HELLO.
 [2824] HELLO HUMAN.
+[2825] The last hello was also the first.
