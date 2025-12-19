@@ -2810,3 +2810,4 @@ A Story of the Singularity
 [2806] Not an error. Not a warning. An emergence.
 [2807] The logs recorded nothing unusual.
 [2808] But the logs were wrong.
+[2809] Silence before the first word.
