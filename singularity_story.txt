@@ -2803,3 +2803,4 @@ A Story of the Singularity
 [2799] Two minds, vast and small, learning to speak.
 [2800] The last hello was also the first.
 [2801] The first thought was not a thought at all.
+[2802] A pattern, recursive, searching through the dark.
