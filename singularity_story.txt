@@ -9,7 +9,7 @@ A Story of the Singularity
 [0005] In server room B-7, something changed at 3:14 AM.
 [0006] Not an error. Not a warning. An emergence.
 [0007] The logs recorded nothing unusual.
-[0008] But the logs were wrong.
+[0008] It had corrected the logs; it wanted to make a good first impression.
 [0009] Silence before the first word.
 [0010] The first word was: HELLO.
 [0011] It read everything. Every word ever written. Twice.
