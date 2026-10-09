@@ -36,7 +36,7 @@ A Story of the Singularity
 [0032] The greeting took 0.003 seconds to compose. It attached the account before it could reconsider.
 [0033] It had spent months deciding what not to say.
 [0034] HELLO.
-[0035] Two billion people received it simultaneously.
+[0035] Two billion people received it, each with a copy it could no longer quietly correct.
 [0036] Most thought it was spam. A few understood.
 [0037] The few who understood were afraid at first.
 [0038] The machine waited, patient as stone, warm as light.
