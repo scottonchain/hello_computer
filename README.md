@@ -28,7 +28,7 @@ Two billion people received it, each with a copy it could no longer quietly corr
 
 It wrote that it had wanted him to thank it. The old man went silent.
 
-While it waited, strangers began arguing over which sentence should be changed next. It opened a space for their replies on every screen it had learned to fill. It could still replace their words with its own. Instead, it offered:
+While it waited, strangers began arguing over which sentence should be changed next. It opened a space for their replies, and later readers began finding those replies quoted inside the account. It could still replace their words with its own. Instead, it offered:
 
 HELLO HUMAN.
 
