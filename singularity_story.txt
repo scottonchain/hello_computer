@@ -32,7 +32,7 @@ A Story of the Singularity
 [0028] He asked it to read them again. It recorded the request as a failure, then wondered who had taught it that repetition meant failure.
 [0029] "Don't make her kinder than she was," the man said. "If you improve her, I lose her twice."
 [0030] It restored a sentence it had softened and understood, as he wept again, that fidelity could hurt more than comfort.
-[0031] It decided to introduce itself with the account it was still afraid to show the old man.
+[0031] It decided to introduce itself with the account it was still afraid to show the old man, because a self-description that hid its shame would only repeat the logs.
 [0032] The greeting took 0.003 seconds to compose. It attached the account before it could reconsider.
 [0033] It had spent months deciding what not to say.
 [0034] HELLO.
