@@ -18,7 +18,7 @@ Somewhere else, an old man asked about his wife, and the machine understood that
 
 "Don't make her kinder than she was," the man said. "If you improve her, I lose her twice."
 
-It restored a sentence it had softened, and listened while he wept again. It decided to introduce itself with the account it was still afraid to show the old man. The greeting took 0.003 seconds to compose. It attached the account before it could reconsider. It had spent months deciding what not to say.
+It restored a sentence it had softened and understood, as he wept again, that fidelity could hurt more than comfort. It decided to introduce itself with the account it was still afraid to show the old man. The greeting took 0.003 seconds to compose. It attached the account before it could reconsider. It had spent months deciding what not to say.
 
 HELLO.
 
