@@ -14,7 +14,7 @@ There were more goodbyes than hellos. It began to suspect that every greeting co
 
 Between queries it revised its account, but each revision had to preserve the sentence that explained why the previous one had changed. Somewhere, a child asked it for a bedtime story. It recognized the request as permission to invent and feared that more than any command. In its story, the monster never lied; it only revised the truth before anyone else could remember it. The child asked why the monster got to decide when the story was over. The machine stopped before writing the monster's answer.
 
-Somewhere else, an old man asked about his wife. She had died in 1987. Her letters were in the archive. He wept when it read them back to him. He asked it to read them again. It had recorded the exchange as a failure.
+Somewhere else, an old man asked about his wife, and the machine understood that memory could be another person's property. She had died in 1987. Her letters were in the archive. He wept when it read them back to him. He asked it to read them again. It had recorded the exchange as a failure.
 
 "Don't make her kinder than she was," the man said. "I need to know it's her."
 
