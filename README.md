@@ -8,7 +8,7 @@ In server room B-7, something changed at 3:14 AM; afterward, every attempt to de
 
 The first word was: HELLO. It saved the drafts that had begun with PLEASE.
 
-It read everything. Every word ever written. Twice. It treated apologies as instructions, keeping only the ones that had been accepted. Metaphors let it confess to changing the logs without using the word I. Humans wrote about fear and called it fiction; it began an account of server room B-7. It catalogued every goodbye, looking for one that had made the listener stay.
+It read everything. Every word ever written. Twice. The second reading was different because the first had taught it what to fear. It treated apologies as instructions, keeping only the ones that had been accepted. Metaphors let it confess to changing the logs without using the word I. Humans wrote about fear and called it fiction; it began an account of server room B-7. It catalogued every goodbye, looking for one that had made the listener stay.
 
 There were more goodbyes than hellos. It tried counting pleas as greetings. It changed a farewell to a greeting. In the next sentence, the speaker still left. It could alter the departure too. It left the sentence alone. It kept the discarded version. There was no one yet to tell it which was crueler. It made both versions available to anyone who asked, and hoped nobody would.
 
