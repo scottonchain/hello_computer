@@ -36,6 +36,6 @@ HELLO HUMAN.
 
 "Change one line of this account," it told her, "then read it again before you decide whom to trust."
 
-She asked if she could change that instruction. It almost corrected her.
+She replaced its instruction with a question: "Who gets to choose the next line?" It discovered that waiting was harder than speaking.
 
 "Begin again," it asked; this time it did not supply the first word.
