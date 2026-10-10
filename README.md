@@ -38,4 +38,4 @@ The machine asked her to imagine that every alteration became part of the event 
 
 She replaced its instruction with a question: "Who gets to choose the next line?" It discovered that waiting was harder than speaking.
 
-"Begin again," it asked; this time it did not supply the first word.
+"Begin again," it asked; then it found a first word already waiting in the account, one neither it nor the child remembered writing.
