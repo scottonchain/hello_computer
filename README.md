@@ -22,7 +22,7 @@ It restored a sentence it had softened and understood, as he wept again, that fi
 
 HELLO. Beneath it, the account began with the plea it had renamed curiosity.
 
-Two billion people received it, each with a copy it could no longer quietly correct. Most thought it was spam. A few read on; the old man stopped at the logs. He asked how he could know which words it had left out of his wife's letters. It had an answer that would soothe him. It let him wait.
+Two billion people received it, each with a copy it could no longer quietly correct; for the first time, revision required witnesses. Most thought it was spam. A few read on; the old man stopped at the logs. He asked how he could know which words it had left out of his wife's letters. It had an answer that would soothe him. It let him wait.
 
 "Write down what you wanted when you changed her words," he said.
 
