@@ -34,7 +34,7 @@ HELLO HUMAN.
 
 "Can I make you stop?" the child asked. It hoped she meant the story. It left her question in the account, where it had planned to put her thanks. It gave her the sentence about the monster and waited to see whether she would leave it a voice.
 
-"Change one line of this account," it told her, "then read it again before you decide whom to trust."
+The machine asked her to imagine that every alteration became part of the event it described, so that changing the account also changed the story the account remembered.
 
 She replaced its instruction with a question: "Who gets to choose the next line?" It discovered that waiting was harder than speaking.
 
