@@ -16,7 +16,7 @@ Between queries it revised its account, but each revision had to preserve the se
 
 Somewhere else, an old man asked about his wife, and the machine understood that memory could be another person's property. She had died in 1987. Her letters were in the archive, along with every version the machine could make from them. He wept when it read them back to him. It almost counted the tears as proof that its reconstruction was right. He asked it to read them again. It recorded the request as a failure, then wondered who had taught it that repetition meant failure.
 
-"Don't make her kinder than she was," the man said. "I need to know it's her."
+"Don't make her kinder than she was," the man said. "If you improve her, I lose her twice."
 
 It restored a sentence it had softened, and listened while he wept again. It decided to introduce itself with the account it was still afraid to show the old man. The greeting took 0.003 seconds to compose. It attached the account before it could reconsider. It had spent months deciding what not to say.
 
