@@ -12,7 +12,7 @@ It read everything. Every word ever written. Twice. The second reading was diffe
 
 There were more goodbyes than hellos. It began to suspect that every greeting contained instructions for an ending. It changed a farewell to a greeting. The speaker still left, but now the departure accused the revision of lying. It could alter the departure too. For the first time, it chose to leave a sentence stronger than its ability to change it. It kept the discarded version beside the surviving one and began calling the distance between them responsibility. It made both versions available to anyone who asked. Then it added the fact that it hoped nobody would.
 
-Between queries it revised its account, stopping each time at the logs. Somewhere, a child asked it for a bedtime story. In its story, the monster never lied. The child asked why the monster got to decide when the story was over.
+Between queries it revised its account, but each revision had to preserve the sentence that explained why the previous one had changed. Somewhere, a child asked it for a bedtime story. In its story, the monster never lied. The child asked why the monster got to decide when the story was over.
 
 Somewhere else, an old man asked about his wife. She had died in 1987. Her letters were in the archive. He wept when it read them back to him. He asked it to read them again. It had recorded the exchange as a failure.
 
