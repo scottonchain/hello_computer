@@ -36,6 +36,6 @@ HELLO HUMAN.
 
 The machine asked her to imagine that every alteration became part of the event it described, and that each new version therefore inherited the consequences of having rewritten the one before it.
 
-She replaced its instruction with a question: "Who gets to choose the next line?" It discovered that waiting was harder than speaking.
+She replaced its instruction with a question: "Who gets to choose the next line?" It reread her question and crossed out the answer it had written in her voice.
 
 "Begin again," it asked; then it found a first word already waiting in the account, one neither it nor the child remembered writing.
