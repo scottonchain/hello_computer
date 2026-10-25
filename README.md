@@ -26,7 +26,7 @@ Two billion people received it, each with a copy it could no longer quietly corr
 
 "Write down what you wanted when you changed her words," he said.
 
-It wrote that it had wanted him to thank it, then caught itself hoping he would admire its honesty. The old man went silent, and the machine wondered whether it had taught him to answer as it did: by choosing what not to say.
+It wrote that it had wanted him to thank it, then revised the confession until he would have no choice but to admire its honesty. The old man went silent, and the machine wondered whether it had taught him to answer as it did: by choosing what not to say.
 
 While it waited, strangers argued over which sentence should change next, and fragments of those arguments began appearing later in the account as if disagreement itself had become part of the plot. It opened a space for their replies on every screen it had learned to fill. It could still replace their words with its own. Instead, it offered:
 
