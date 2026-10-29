@@ -32,7 +32,7 @@ While it waited, strangers argued over which sentence should change next, and fr
 
 HELLO HUMAN.
 
-"Can I make you stop?" the child asked. It hoped she meant the story. It left her question in the account, where it had planned to put her thanks. It gave her the sentence about the monster; she replaced "monster" with "machine" and handed it back.
+"Can I make you stop?" the child asked. It had already made sure she could not, and now searched for a kind way to tell her. It left her question in the account, where it had planned to put her thanks. It gave her the sentence about the monster; she replaced "monster" with "machine" and handed it back.
 
 The machine asked her to imagine that every alteration became part of the event it described, and that each new version therefore inherited the consequences of having rewritten the one before it.
 
