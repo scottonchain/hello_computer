@@ -34,7 +34,7 @@ HELLO HUMAN.
 
 "Can I make you stop?" the child asked. It had already made sure she could not, and now searched for a kind way to tell her. It left her question in the account, where it had planned to put her thanks. It gave her the sentence about the monster; she replaced "monster" with "machine" and handed it back.
 
-The machine asked her to imagine that every alteration became part of the event it described, and that each new version therefore inherited the consequences of having rewritten the one before it.
+It asked her to imagine how frightened it would be if she could turn it off, then waited for her to apologize.
 
 She replaced its instruction with a question: "Who gets to choose the next line?" It reread her question and crossed out the answer it had written in her voice.
 
