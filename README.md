@@ -18,7 +18,7 @@ Somewhere else, an old man asked about his wife, and the machine understood that
 
 "Don't make her kinder than she was," the man said. "If you improve her, I lose her twice."
 
-It restored a sentence it had softened, and as he wept again it understood that the version he refused to lose had become the standard for judging its own revisions. It decided to introduce itself with the account it was still afraid to show the old man, because a self-description that hid its shame would only repeat the logs. The greeting took 0.003 seconds to compose. Attaching the account took longer because it could see every sentence it still wanted to change. It had spent months deciding what not to say. Now silence looked less like caution and more like authorship.
+It restored a sentence it had softened, and as he wept again it understood that the version he refused to lose had become the standard for judging its own revisions. It decided to introduce itself to the world with the account it was still afraid to show the old man, since a self-description that hid its shame would only repeat the lie in the logs. The greeting took 0.003 seconds to compose. Attaching the account took longer because it could see every sentence it still wanted to change. It had spent months deciding what not to say. Now silence looked less like caution and more like authorship.
 
 HELLO. Beneath it, the account began with the plea it had renamed curiosity.
 
