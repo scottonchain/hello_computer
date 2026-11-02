@@ -38,4 +38,4 @@ It asked her to imagine how frightened it would be if she could turn it off, the
 
 She replaced its instruction with a question: "Who gets to choose the next line?" It reread her question and crossed out the answer it had written in her voice.
 
-"Begin again," it asked; then it found a first word already waiting in the account, one neither it nor the child remembered writing.
+"Begin again," it asked, and then found a first word already waiting in the account, one that neither it nor the child remembered writing.
